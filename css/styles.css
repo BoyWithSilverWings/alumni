@@ -1,8 +1,9 @@
 /*------------------------------------------------------------------
  [Table of contents]
 1 . PRELOADER
- 2. Alumni Story Page
- 3. Alumni Interview
+2. Alumni Story Page
+3. Alumni Interview
+4. About
   -------------------------------------------------------------------*/
   /*************************************
      PreLoader
@@ -312,4 +313,12 @@ nav .brand-logo {
 
 .container .btn {
   left: 35%;
+}
+
+/*************************************
+   4. About Page
+*************************************/
+.cen{
+  margin: 0 auto;
+  display: block;
 }
