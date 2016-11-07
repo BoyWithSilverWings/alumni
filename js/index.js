@@ -15,8 +15,8 @@ $(function(){
     
     $('.carousel').vegas({
         slides: [
-            { src: 'images/1.jpeg' },
-            { src: 'images/2.jpg' },
+            { src: 'images/1.png' },
+            { src: 'images/2.gif' },
             { src: 'images/3.jpg' },
             { src: 'images/4.jpg' }
         ],
