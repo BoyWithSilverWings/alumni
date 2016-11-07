@@ -19,6 +19,15 @@ nav .brand-logo {
   color: #444;
 }
 
+#nav-mobile .divider {
+  margin-top: 15%;
+}
+
+nav .logo img {
+  margin: 0 auto;
+  display: block;
+}
+
 /*************************************
    2. Alumni Story Page
 *************************************/
@@ -84,7 +93,7 @@ nav .brand-logo {
     padding: 18px 12px !important;
   }
 }
-/*** 15. newsletter  ***/
+/*** 15. Newsletter  ***/
 .newsletter {
   padding: 135px 0 115px;
   background: url("../images/bg-newsletter.jpg") no-repeat;
